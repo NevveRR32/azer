@@ -1,0 +1,100 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "1304350666",
+										["SequenceName"] = "idle_all_01",
+										["InvertFrames"] = false,
+										["WeaponHoldType"] = "none",
+										["Offset"] = 0,
+										["OwnerName"] = "self",
+										["ResetOnHide"] = true,
+										["Max"] = 1,
+										["AimPartUID"] = "",
+										["Hide"] = false,
+										["Min"] = 0,
+										["IsDisturbing"] = false,
+										["ClassName"] = "animation",
+										["OwnerCycle"] = false,
+										["Rate"] = 1,
+										["Loop"] = true,
+										["PingPongLoop"] = false,
+										["EditorExpand"] = false,
+										["Name"] = "",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["UniqueID"] = "2259422626",
+												["Duration"] = 0.5,
+												["Hide"] = false,
+												["Name"] = "",
+												["Frequency"] = 100,
+												["EditorExpand"] = false,
+												["OwnerName"] = "self",
+												["Radius"] = 100,
+												["IsDisturbing"] = false,
+												["AimPartUID"] = "",
+												["Amplitude"] = 50,
+												["ClassName"] = "shake",
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["DrawOrder"] = 0,
+														["UniqueID"] = "3746766376",
+														["OwnerName"] = "self",
+														["AimPartName"] = "",
+														["Bone"] = "head",
+														["IgnoreZ"] = false,
+														["Translucent"] = true,
+														["BlendMode"] = "",
+														["Darken"] = 0,
+														["Position"] = Vector(0, 0, 0),
+														["AimPartUID"] = "",
+														["ClassName"] = "sunbeams",
+														["Hide"] = true,
+														["Name"] = "",
+														["Angles"] = Angle(0, 0, 0),
+														["EditorExpand"] = true,
+														["NoTextureFiltering"] = false,
+														["Size"] = 0.1,
+														["PositionOffset"] = Vector(0, 0, 0),
+														["IsDisturbing"] = false,
+														["Multiplier"] = 0.47499999403954,
+														["EyeAngles"] = false,
+														["AngleOffset"] = Angle(0, 0, 0),
+													},
+												},
+											},
+											["self"] = {
+												["TargetPartName"] = "",
+												["TargetPartUID"] = "",
+												["Axis"] = "",
+												["Input"] = "time",
+												["ClassName"] = "proxy",
+												["InputMultiplier"] = 1,
+												["OwnerName"] = "self",
+												["VelocityRoughness"] = 10,
+												["Offset"] = 0,
+												["EditorExpand"] = true,
+												["ResetVelocitiesOnHide"] = true,
+												["ZeroEyePitch"] = false,
+												["Max"] = 1,
+												["Pow"] = 1,... (202 Ko restants)
